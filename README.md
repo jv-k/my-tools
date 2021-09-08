@@ -4,10 +4,10 @@
 |--|--|
 | [tldr-pages](https://github.com/tldr-pages/tldr) | The **tldr-pages** project is a collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional [man pages](https://en.wikipedia.org/wiki/Man_page). |
 | [stackedit.io](https://stackedit.io/) | Open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites. You can edit and synchronise files directly with my Github repos, which is a very attractive feature for editing README.md files. |
-
-
+| [Fast](https://github.com/sindresorhus/fast-cli) | [Fast](https://github.com/sindresorhus/fast-cli)  is a service provided by Netflix. Its web interface is located at  [Fast.com](https://fast.com/), and it has a command-line interface available through npm. Both the website and command-line utility provide the same basic interface: it's a simple-as-possible speed test.  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzI1ODM3MTAsLTE5MDAyNzA3MDMsLT
-I3NDAxNDU4OCw1OTk0MTI1NzYsNTAzOTAwMjkyXX0=
+eyJoaXN0b3J5IjpbLTEzNjIzODgzOTcsLTE4NzI1ODM3MTAsLT
+E5MDAyNzA3MDMsLTI3NDAxNDU4OCw1OTk0MTI1NzYsNTAzOTAw
+MjkyXX0=
 -->
