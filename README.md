@@ -9,13 +9,16 @@
 | Amethyst ||
 | SteerMouse ||
 | Mos ||
-| Logitech ||
+| Logitech Options ||
 | HapticTouchBar ||
 | Amethyst ||
 | Breaktime ||
-|
+| HyperDock ||
+| iStat Menu Bar ||
+| Macs Fan Control ||
+|||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODM3NDQxMCwxNjQ1ODg5NDUzLC0yMD
+eyJoaXN0b3J5IjpbLTIxMjMxNjU5MiwxNjQ1ODg5NDUzLC0yMD
 I5NTQyOTM5LC0xODcyNTgzNzEwLC0xOTAwMjcwNzAzLC0yNzQw
 MTQ1ODgsNTk5NDEyNTc2LDUwMzkwMDI5Ml19
 -->
