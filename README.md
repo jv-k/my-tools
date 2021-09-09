@@ -10,8 +10,12 @@
 | SteerMouse ||
 | Mos ||
 | Logitech ||
+| HapticTouchBar ||
+| Amethyst ||
+| Breaktime ||
+|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTg5NzQ2OCwxNjQ1ODg5NDUzLC0yMD
+eyJoaXN0b3J5IjpbLTUwODM3NDQxMCwxNjQ1ODg5NDUzLC0yMD
 I5NTQyOTM5LC0xODcyNTgzNzEwLC0xOTAwMjcwNzAzLC0yNzQw
 MTQ1ODgsNTk5NDEyNTc2LDUwMzkwMDI5Ml19
 -->
