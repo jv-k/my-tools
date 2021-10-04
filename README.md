@@ -27,24 +27,44 @@ git commit -m "And so, it begins."
 </pre>
 </td></tr>
 
+<tr><td>
 Amethyst
+<tr><td>
 SteerMouse
+<tr><td>
 Mos
-Logitech Options ||
-HapticTouchBar ||
-Amethyst ||
+</td></tr>
+<tr><td>
+Logitech Options
+</td></tr>
+<tr><td>
+HapticTouchBar
+</td></tr>
+<tr><td>
+Amethyst
+</td></tr>
+<tr><td>
 Breaktime
+</td></tr>
+<tr><td>
 HyperDock
+</td></tr>
+<tr><td>
 iStat Menu Bar
+</td></tr>
+<tr><td>
 Macs Fan Control
+</td></tr>
+<tr><td>
 Sourcetree
+</td></tr>
 
 </table>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDg4MzU4MzcsLTEzODMxMTU0MjgsMT
+eyJoaXN0b3J5IjpbLTIxMzI3NTE2MjksLTEzODMxMTU0MjgsMT
 A0NDM3OTU3MSwtNDIxNTA0ODQ1LC0xNDgyODY2NTE5LDE2NDU4
 ODk0NTMsLTIwMjk1NDI5MzksLTE4NzI1ODM3MTAsLTE5MDAyNz
 A3MDMsLTI3NDAxNDU4OCw1OTk0MTI1NzYsNTAzOTAwMjkyXX0=
