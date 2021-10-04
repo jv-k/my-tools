@@ -24,13 +24,13 @@
 <tr><td> 
 github hub](https://hub.github.com/) 
 </td><td>
-<code>
-# create a repo to host a new project on GitHub  
-git init  
-git add .  
+<pre>
+# create a repo to host a new project on GitHub
+git init
+git add .
 git commit -m "And so, it begins."
 **hub create**
-</code>
+</pre>
 </td></tr>
 
 </table>
@@ -38,7 +38,7 @@ git commit -m "And so, it begins."
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzIxOTUwNzIsMTA0NDM3OTU3MSwtND
+eyJoaXN0b3J5IjpbLTEzODMxMTU0MjgsMTA0NDM3OTU3MSwtND
 IxNTA0ODQ1LC0xNDgyODY2NTE5LDE2NDU4ODk0NTMsLTIwMjk1
 NDI5MzksLTE4NzI1ODM3MTAsLTE5MDAyNzA3MDMsLTI3NDAxND
 U4OCw1OTk0MTI1NzYsNTAzOTAwMjkyXX0=
