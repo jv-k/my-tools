@@ -17,26 +17,29 @@
 | iStat Menu Bar ||
 | Macs Fan Control ||
 | Sourcetree ||
-| [](https://hub.github.com/) | A command-line tool that makes git easier to use with GitHub. <br/><br/>
+|  <br/><br/>|
 
 <table>
 <tr><td>Resource </td><td>Description</td></tr>
 <tr><td> 
+[github hub](https://hub.github.com/) 
 </td><td>
+```sh
+# create a repo to host a new project on GitHub
+git init
+git add .
+git commit -m "And so, it begins."
+**hub create**
 ```
 </td></tr>
 
 </table>
 
-```# create a repo to host a new project on GitHub
-git init
-git add .
-git commit -m "And so, it begins."
-**hub create**
-``` |
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDg5OTAxLC00MjE1MDQ4NDUsLTE0OD
-I4NjY1MTksMTY0NTg4OTQ1MywtMjAyOTU0MjkzOSwtMTg3MjU4
-MzcxMCwtMTkwMDI3MDcwMywtMjc0MDE0NTg4LDU5OTQxMjU3Ni
-w1MDM5MDAyOTJdfQ==
+eyJoaXN0b3J5IjpbMTA0NDM3OTU3MSwtNDIxNTA0ODQ1LC0xND
+gyODY2NTE5LDE2NDU4ODk0NTMsLTIwMjk1NDI5MzksLTE4NzI1
+ODM3MTAsLTE5MDAyNzA3MDMsLTI3NDAxNDU4OCw1OTk0MTI1Nz
+YsNTAzOTAwMjkyXX0=
 -->
