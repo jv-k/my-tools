@@ -41,8 +41,7 @@ Mos
 </td>
 </tr>
 <tr>
-<td>
-Logitech Options
+<td>Logitech Options
 </td>
 </tr>
 <tr>
@@ -86,9 +85,9 @@ Sourcetree
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4MDgwMTE1LC0yMTMyNzUxNjI5LC0xMz
-gzMTE1NDI4LDEwNDQzNzk1NzEsLTQyMTUwNDg0NSwtMTQ4Mjg2
-NjUxOSwxNjQ1ODg5NDUzLC0yMDI5NTQyOTM5LC0xODcyNTgzNz
-EwLC0xOTAwMjcwNzAzLC0yNzQwMTQ1ODgsNTk5NDEyNTc2LDUw
-MzkwMDI5Ml19
+eyJoaXN0b3J5IjpbLTQyNzQwMjkzOSwtMjEzMjc1MTYyOSwtMT
+M4MzExNTQyOCwxMDQ0Mzc5NTcxLC00MjE1MDQ4NDUsLTE0ODI4
+NjY1MTksMTY0NTg4OTQ1MywtMjAyOTU0MjkzOSwtMTg3MjU4Mz
+cxMCwtMTkwMDI3MDcwMywtMjc0MDE0NTg4LDU5OTQxMjU3Niw1
+MDM5MDAyOTJdfQ==
 -->
