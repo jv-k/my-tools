@@ -24,8 +24,8 @@
 <tr><td> 
 <a href="https://hub.github.com/">github hub</a>
 </td><td>
+Create a repo to host a new project on GitHub:
 <pre>
-# create a repo to host a new project on GitHub
 git init
 git add .
 git commit -m "And so, it begins."
@@ -38,9 +38,8 @@ hub create
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODc3MTI4ODMsLTEzODMxMTU0MjgsMT
-A0NDM3OTU3MSwtNDIxNTA0ODQ1LC0xNDgyODY2NTE5LDE2NDU4
-ODk0NTMsLTIwMjk1NDI5MzksLTE4NzI1ODM3MTAsLTE5MDAyNz
-A3MDMsLTI3NDAxNDU4OCw1OTk0MTI1NzYsNTAzOTAwMjkyXX0=
-
+eyJoaXN0b3J5IjpbMzUxOTE5MDQ0LC0xMzgzMTE1NDI4LDEwND
+QzNzk1NzEsLTQyMTUwNDg0NSwtMTQ4Mjg2NjUxOSwxNjQ1ODg5
+NDUzLC0yMDI5NTQyOTM5LC0xODcyNTgzNzEwLC0xOTAwMjcwNz
+AzLC0yNzQwMTQ1ODgsNTk5NDEyNTc2LDUwMzkwMDI5Ml19
 -->
