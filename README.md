@@ -17,10 +17,10 @@
 | iStat Menu Bar ||
 | Macs Fan Control ||
 | Sourcetree ||
-| 
+| [](https://hub.github.com/) | A command-line tool that makes git easier to use with GitHub. <br/><br/> |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTUwNDg0NSwtMTQ4Mjg2NjUxOSwxNj
-Q1ODg5NDUzLC0yMDI5NTQyOTM5LC0xODcyNTgzNzEwLC0xOTAw
-MjcwNzAzLC0yNzQwMTQ1ODgsNTk5NDEyNTc2LDUwMzkwMDI5Ml
-19
+eyJoaXN0b3J5IjpbNjIwNTk0MDUyLC00MjE1MDQ4NDUsLTE0OD
+I4NjY1MTksMTY0NTg4OTQ1MywtMjAyOTU0MjkzOSwtMTg3MjU4
+MzcxMCwtMTkwMDI3MDcwMywtMjc0MDE0NTg4LDU5OTQxMjU3Ni
+w1MDM5MDAyOTJdfQ==
 -->
