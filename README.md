@@ -14,7 +14,7 @@ man pages](https://en.wikipedia.org/wiki/Man_page). |
 [n — Interactively manage Node.js versions](https://github.com/tj/n) | Install, manage and switch between multiple versions of Node.js | 
 
 <table>
-<tr><td>Resource </td><td>Description</td></tr>
+	<tr><td>Resource </td><td>Description</td></tr>
 <tr><td> 
 <a href="https://hub.github.com/">github hub</a>
 </td><td>
@@ -64,9 +64,9 @@ Sourcetree
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzI3NTE2MjksLTEzODMxMTU0MjgsMT
-A0NDM3OTU3MSwtNDIxNTA0ODQ1LC0xNDgyODY2NTE5LDE2NDU4
-ODk0NTMsLTIwMjk1NDI5MzksLTE4NzI1ODM3MTAsLTE5MDAyNz
-A3MDMsLTI3NDAxNDU4OCw1OTk0MTI1NzYsNTAzOTAwMjkyXX0=
-
+eyJoaXN0b3J5IjpbMTk2MTk0NzA4MywtMjEzMjc1MTYyOSwtMT
+M4MzExNTQyOCwxMDQ0Mzc5NTcxLC00MjE1MDQ4NDUsLTE0ODI4
+NjY1MTksMTY0NTg4OTQ1MywtMjAyOTU0MjkzOSwtMTg3MjU4Mz
+cxMCwtMTkwMDI3MDcwMywtMjc0MDE0NTg4LDU5OTQxMjU3Niw1
+MDM5MDAyOTJdfQ==
 -->
