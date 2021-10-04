@@ -14,10 +14,12 @@ man pages](https://en.wikipedia.org/wiki/Man_page). |
 [n — Interactively manage Node.js versions](https://github.com/tj/n) | Install, manage and switch between multiple versions of Node.js | 
 
 <table>
-	<tr><td>Resource </td><td>Description</td></tr>
-<tr><td> 
+<tr><td>Resource </td><td>Description</td></tr>
+<tr>
+<td> 
 <a href="https://hub.github.com/">github hub</a>
-</td><td>
+</td>
+<td>
 Create a repo to host a new project on GitHub:
 <pre>
 git init
@@ -25,48 +27,68 @@ git add .
 git commit -m "And so, it begins."
 <strong>hub create</strong>
 </pre>
-</td></tr>
-
-<tr><td>
+</td>
+</tr>
+<tr>
+<td>
 Amethyst
-<tr><td>
+<tr>
+<td>
 SteerMouse
-<tr><td>
+<tr>
+<td>
 Mos
-</td></tr>
-<tr><td>
+</td>
+</tr>
+<tr>
+<td>
 Logitech Options
-</td></tr>
-<tr><td>
+</td>
+</tr>
+<tr>
+<td>
 HapticTouchBar
-</td></tr>
-<tr><td>
+</td>
+</tr>
+<tr>
+<td>
 Amethyst
-</td></tr>
-<tr><td>
+</td>
+</tr>
+<tr>
+<td>
 Breaktime
-</td></tr>
-<tr><td>
+</td>
+</tr>
+<tr>
+<td>
 HyperDock
-</td></tr>
-<tr><td>
+</td>
+</tr>
+<tr>
+<td>
 iStat Menu Bar
-</td></tr>
-<tr><td>
+</td>
+</tr>
+<tr>
+<td>
 Macs Fan Control
-</td></tr>
-<tr><td>
+</td>
+</tr>
+<tr>
+<td>
 Sourcetree
-</td></tr>
+</td>
+</tr>
 
 </table>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTk0NzA4MywtMjEzMjc1MTYyOSwtMT
-M4MzExNTQyOCwxMDQ0Mzc5NTcxLC00MjE1MDQ4NDUsLTE0ODI4
-NjY1MTksMTY0NTg4OTQ1MywtMjAyOTU0MjkzOSwtMTg3MjU4Mz
-cxMCwtMTkwMDI3MDcwMywtMjc0MDE0NTg4LDU5OTQxMjU3Niw1
-MDM5MDAyOTJdfQ==
+eyJoaXN0b3J5IjpbOTU4MDgwMTE1LC0yMTMyNzUxNjI5LC0xMz
+gzMTE1NDI4LDEwNDQzNzk1NzEsLTQyMTUwNDg0NSwtMTQ4Mjg2
+NjUxOSwxNjQ1ODg5NDUzLC0yMDI5NTQyOTM5LC0xODcyNTgzNz
+EwLC0xOTAwMjcwNzAzLC0yNzQwMTQ1ODgsNTk5NDEyNTc2LDUw
+MzkwMDI5Ml19
 -->
