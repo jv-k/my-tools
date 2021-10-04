@@ -29,7 +29,7 @@ github hub](https://hub.github.com/)
 git init
 git add .
 git commit -m "And so, it begins."
-**hub create**
+hub create
 </pre>
 </td></tr>
 
@@ -38,8 +38,9 @@ git commit -m "And so, it begins."
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODMxMTU0MjgsMTA0NDM3OTU3MSwtND
-IxNTA0ODQ1LC0xNDgyODY2NTE5LDE2NDU4ODk0NTMsLTIwMjk1
-NDI5MzksLTE4NzI1ODM3MTAsLTE5MDAyNzA3MDMsLTI3NDAxND
-U4OCw1OTk0MTI1NzYsNTAzOTAwMjkyXX0=
+eyJoaXN0b3J5IjpbLTM1MDM4MDI2MCwtMTM4MzExNTQyOCwxMD
+Q0Mzc5NTcxLC00MjE1MDQ4NDUsLTE0ODI4NjY1MTksMTY0NTg4
+OTQ1MywtMjAyOTU0MjkzOSwtMTg3MjU4MzcxMCwtMTkwMDI3MD
+cwMywtMjc0MDE0NTg4LDU5OTQxMjU3Niw1MDM5MDAyOTJdfQ==
+
 -->
