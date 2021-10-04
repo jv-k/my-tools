@@ -29,7 +29,7 @@ Create a repo to host a new project on GitHub:
 git init
 git add .
 git commit -m "And so, it begins."
-hub create
+<strong>hub create</strong>
 </pre>
 </td></tr>
 
@@ -38,8 +38,9 @@ hub create
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxOTE5MDQ0LC0xMzgzMTE1NDI4LDEwND
-QzNzk1NzEsLTQyMTUwNDg0NSwtMTQ4Mjg2NjUxOSwxNjQ1ODg5
-NDUzLC0yMDI5NTQyOTM5LC0xODcyNTgzNzEwLC0xOTAwMjcwNz
-AzLC0yNzQwMTQ1ODgsNTk5NDEyNTc2LDUwMzkwMDI5Ml19
+eyJoaXN0b3J5IjpbLTExMjQ1NjgyNywtMTM4MzExNTQyOCwxMD
+Q0Mzc5NTcxLC00MjE1MDQ4NDUsLTE0ODI4NjY1MTksMTY0NTg4
+OTQ1MywtMjAyOTU0MjkzOSwtMTg3MjU4MzcxMCwtMTkwMDI3MD
+cwMywtMjc0MDE0NTg4LDU5OTQxMjU3Niw1MDM5MDAyOTJdfQ==
+
 -->
