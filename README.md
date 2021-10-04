@@ -17,8 +17,10 @@
 | iStat Menu Bar ||
 | Macs Fan Control ||
 | Sourcetree ||
+| 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI4NjY1MTksMTY0NTg4OTQ1MywtMj
-AyOTU0MjkzOSwtMTg3MjU4MzcxMCwtMTkwMDI3MDcwMywtMjc0
-MDE0NTg4LDU5OTQxMjU3Niw1MDM5MDAyOTJdfQ==
+eyJoaXN0b3J5IjpbLTQyMTUwNDg0NSwtMTQ4Mjg2NjUxOSwxNj
+Q1ODg5NDUzLC0yMDI5NTQyOTM5LC0xODcyNTgzNzEwLC0xOTAw
+MjcwNzAzLC0yNzQwMTQ1ODgsNTk5NDEyNTc2LDUwMzkwMDI5Ml
+19
 -->
