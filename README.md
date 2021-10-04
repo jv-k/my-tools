@@ -19,6 +19,43 @@
 | Sourcetree ||
 | [](https://hub.github.com/) | A command-line tool that makes git easier to use with GitHub. <br/><br/>
 
+```
+<table>
+<tr>
+<td> Status </td> <td> Response </td>
+</tr>
+<tr>
+<td> 200 </td>
+<td>
+
+^ Extra blank line above!
+```json
+json
+{
+    "id": 10,
+    "username": "alanpartridge",
+    "email": "alan@alan.com",
+    "password_hash": "$2a$10$uhUIUmVWVnrBWx9rrDWhS.CPCWCZsyqqa8./whhfzBZydX7yvahHS",
+    "password_salt": "$2a$10$uhUIUmVWVnrBWx9rrDWhS.",
+    "created_at": "2015-02-14T20:45:26.433Z",
+    "updated_at": "2015-02-14T20:45:26.540Z"
+}
+```
+V Extra blank line below!
+
+</td>
+</tr>
+<tr>
+<td> 400 </td>
+<td>
+
+**Markdown** _here_. (Blank lines needed before and after!)
+
+</td>
+</tr>
+</table>
+```
+
 ```# create a repo to host a new project on GitHub
 git init
 git add .
@@ -26,8 +63,8 @@ git commit -m "And so, it begins."
 **hub create**
 ``` |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxMDQ2MDk4LC00MjE1MDQ4NDUsLTE0OD
-I4NjY1MTksMTY0NTg4OTQ1MywtMjAyOTU0MjkzOSwtMTg3MjU4
-MzcxMCwtMTkwMDI3MDcwMywtMjc0MDE0NTg4LDU5OTQxMjU3Ni
-w1MDM5MDAyOTJdfQ==
+eyJoaXN0b3J5IjpbLTEzNTg4MjE0NywtNDIxNTA0ODQ1LC0xND
+gyODY2NTE5LDE2NDU4ODk0NTMsLTIwMjk1NDI5MzksLTE4NzI1
+ODM3MTAsLTE5MDAyNzA3MDMsLTI3NDAxNDU4OCw1OTk0MTI1Nz
+YsNTAzOTAwMjkyXX0=
 -->
