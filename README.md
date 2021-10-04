@@ -22,7 +22,7 @@
 <table>
 <tr><td>Resource </td><td>Description</td></tr>
 <tr><td> 
-github hub](https://hub.github.com/) 
+<a href="https://hub.github.com/">github hub</a>
 </td><td>
 <pre>
 # create a repo to host a new project on GitHub
@@ -38,9 +38,9 @@ hub create
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDM4MDI2MCwtMTM4MzExNTQyOCwxMD
-Q0Mzc5NTcxLC00MjE1MDQ4NDUsLTE0ODI4NjY1MTksMTY0NTg4
-OTQ1MywtMjAyOTU0MjkzOSwtMTg3MjU4MzcxMCwtMTkwMDI3MD
-cwMywtMjc0MDE0NTg4LDU5OTQxMjU3Niw1MDM5MDAyOTJdfQ==
+eyJoaXN0b3J5IjpbLTE1ODc3MTI4ODMsLTEzODMxMTU0MjgsMT
+A0NDM3OTU3MSwtNDIxNTA0ODQ1LC0xNDgyODY2NTE5LDE2NDU4
+ODk0NTMsLTIwMjk1NDI5MzksLTE4NzI1ODM3MTAsLTE5MDAyNz
+A3MDMsLTI3NDAxNDU4OCw1OTk0MTI1NzYsNTAzOTAwMjkyXX0=
 
 -->
