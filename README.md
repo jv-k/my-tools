@@ -97,6 +97,10 @@ $ hub clone github/hub
     </tr>
   </tbody>
 </table>
+
+Tutorial Websites
+https://egghead.io/q/python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI5MjI4NDVdfQ==
+eyJoaXN0b3J5IjpbLTEyNDIzMjkwNTYsLTE4MDI5MjI4NDVdfQ
+==
 -->
