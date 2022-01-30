@@ -92,8 +92,8 @@ $ hub clone github/hub
       <td>Monitor and control fans on Apple computers</td>
     </tr>
     <tr>
-      <td><a href="https://www.sourcetreeapp.com/">Sourcetree</a></td>
-      <td>The best Git GUI out there!</td>
+      <td><a href="https://github.com/mhutchie/vscode-git-graph">Git Graph</a></td>
+      <td>View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph. <br/><br/>It loo</td>
     </tr>
   </tbody>
 </table>
@@ -101,6 +101,6 @@ $ hub clone github/hub
 Tutorial Websites
 https://egghead.io/q/python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDIzMjkwNTYsLTE4MDI5MjI4NDVdfQ
-==
+eyJoaXN0b3J5IjpbLTMxNzMxOTU1NCwtMTI0MjMyOTA1NiwtMT
+gwMjkyMjg0NV19
 -->
