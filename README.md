@@ -95,12 +95,16 @@ $ hub clone github/hub
       <td><a href="https://github.com/mhutchie/vscode-git-graph">Git Graph</a></td>
       <td>View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph. <br/><br/>It looks fantastic!</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/pock/pock">Pock</a></td>
+      <td>Widgets manager for MacBook Touch Bar</td>
+    </tr>  
   </tbody>
 </table>
 
 Tutorial Websites
 https://egghead.io/q/python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTY5ODc1MzgsLTEyNDIzMjkwNTYsLT
-E4MDI5MjI4NDVdfQ==
+eyJoaXN0b3J5IjpbLTEzNjc2NTg2MzEsLTE3OTY5ODc1MzgsLT
+EyNDIzMjkwNTYsLTE4MDI5MjI4NDVdfQ==
 -->
