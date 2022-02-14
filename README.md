@@ -97,7 +97,7 @@ $ hub clone github/hub
     </tr>
     <tr>
       <td><a href="https://github.com/pock/pock">Pock</a></td>
-      <td>Widgets manager for MacBook Touch Bar</td>
+      <td>Widgets manager for MacBook Touch Bar<br/></br>Display the macOS Dock in Touch Bar</td>
     </tr>  
   </tbody>
 </table>
@@ -105,6 +105,7 @@ $ hub clone github/hub
 Tutorial Websites
 https://egghead.io/q/python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc2NTg2MzEsLTE3OTY5ODc1MzgsLT
-EyNDIzMjkwNTYsLTE4MDI5MjI4NDVdfQ==
+eyJoaXN0b3J5IjpbLTE5NDM5NzkxOTMsLTEzNjc2NTg2MzEsLT
+E3OTY5ODc1MzgsLTEyNDIzMjkwNTYsLTE4MDI5MjI4NDVdfQ==
+
 -->
