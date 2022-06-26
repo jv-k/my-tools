@@ -98,6 +98,10 @@ $ hub clone github/hub
     <tr>
       <td><a href="https://github.com/pock/pock">Pock</a></td>
       <td>Widgets manager for MacBook Touch Bar<br/></br>Display the macOS Dock in Touch Bar</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/faressoft/terminalizer">Terminalizer</a></td>
+      <td>Record the terminal and generate animated gif images or share a web player</td>
     </tr>  
   </tbody>
 </table>
