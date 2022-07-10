@@ -109,7 +109,7 @@ $ hub clone github/hub
 Tutorial Websites
 https://egghead.io/q/python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM5NzkxOTMsLTEzNjc2NTg2MzEsLT
+eyJoaXN0b3J5IjpbLTE2MzE3ODIzMTAsLTEzNjc2NTg2MzEsLT
 E3OTY5ODc1MzgsLTEyNDIzMjkwNTYsLTE4MDI5MjI4NDVdfQ==
 
 -->
