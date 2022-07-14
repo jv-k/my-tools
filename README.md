@@ -103,6 +103,10 @@ $ hub clone github/hub
       <td><a href="https://github.com/faressoft/terminalizer">Terminalizer</a></td>
       <td>Record the terminal and generate animated gif images or share a web player</td>
     </tr>  
+    <tr>
+      <td><a href="https://fig.io/">Fig</a></td>
+      <td>Fig adds IDE-style autocomplete to the terminal</td>
+    </tr>  
   </tbody>
 </table>
 
