@@ -110,7 +110,15 @@ $ hub clone github/hub
     <tr>
       <td><a href="https://github.com/sindresorhus/trash-cli">trash-cli</a></td>
       <td>Move files and folders delete in the terminal to the trash. <br>In contrast to `rm` which is dangerous and permanently deletes files, this only moves them to the trash, which is much safer and reversible.</td>
+    </tr> 
+    <tr>
+      <td><a href=""></a></td>
+      <td></td>
     </tr>  
+    <tr>
+      <td><a href="https://sindresorhus.com/velja">Velja</a></td>
+      <td>Open links in a specific browser or a matching native app. Easily switch between browsers.</td>
+    </tr>          
   </tbody>
 </table>
 
@@ -123,7 +131,7 @@ $ hub clone github/hub
 Tutorial Websites
 https://egghead.io/q/python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjY1NDk4ODQsLTE2MzE3ODIzMTAsLT
-EzNjc2NTg2MzEsLTE3OTY5ODc1MzgsLTEyNDIzMjkwNTYsLTE4
-MDI5MjI4NDVdfQ==
+eyJoaXN0b3J5IjpbLTk1OTAyMjM4LC0xOTI2NTQ5ODg0LC0xNj
+MxNzgyMzEwLC0xMzY3NjU4NjMxLC0xNzk2OTg3NTM4LC0xMjQy
+MzI5MDU2LC0xODAyOTIyODQ1XX0=
 -->
