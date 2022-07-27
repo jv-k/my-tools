@@ -108,8 +108,12 @@ $ hub clone github/hub
       <td>Fig adds IDE-style autocomplete to the terminal</td>
     </tr>  
     <tr>
-      <td><a href=""></a></td>
-      <td></td>
+      <td><a href="https://github.com/sindresorhus/trash-cli">trash-cli</a></td>
+      <td>> Move files and folders to the trash
+
+Works on macOS (10.12+), Linux, and Windows (8+).
+
+In contrast to [`rm`](http://en.wikipedia.org/wiki/Rm_(Unix)) which is [dangerous](http://docstore.mik.ua/orelly/unix3/upt/ch14_03.htm) and permanently delete files, this only moves them to the trash, which is much safer and reversible. I would also recommend reading my guide on [safeguarding `rm`](https://github.com/sindresorhus/guides/blob/main/how-not-to-rm-yourself.md#safeguard-rm).</td>
     </tr>  
   </tbody>
 </table>
@@ -123,7 +127,7 @@ $ hub clone github/hub
 Tutorial Websites
 https://egghead.io/q/python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjY3NTAwNTMsLTE2MzE3ODIzMTAsLT
-EzNjc2NTg2MzEsLTE3OTY5ODc1MzgsLTEyNDIzMjkwNTYsLTE4
-MDI5MjI4NDVdfQ==
+eyJoaXN0b3J5IjpbLTkzOTcxNDcyNywtMTYzMTc4MjMxMCwtMT
+M2NzY1ODYzMSwtMTc5Njk4NzUzOCwtMTI0MjMyOTA1NiwtMTgw
+MjkyMjg0NV19
 -->
