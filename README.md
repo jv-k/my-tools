@@ -112,8 +112,8 @@ $ hub clone github/hub
       <td>Move files and folders delete in the terminal to the trash. <br>In contrast to `rm` which is dangerous and permanently deletes files, this only moves them to the trash, which is much safer and reversible.</td>
     </tr> 
     <tr>
-      <td><a href=""></a></td>
-      <td></td>
+      <td><a href="https://sindresorhus.com/one-thing">One Thing</a></td>
+      <td>Put a single task or goal in your MacOS menu bar</td>
     </tr>  
     <tr>
       <td><a href="https://sindresorhus.com/velja">Velja</a></td>
@@ -131,7 +131,7 @@ $ hub clone github/hub
 Tutorial Websites
 https://egghead.io/q/python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTAyMjM4LC0xOTI2NTQ5ODg0LC0xNj
-MxNzgyMzEwLC0xMzY3NjU4NjMxLC0xNzk2OTg3NTM4LC0xMjQy
-MzI5MDU2LC0xODAyOTIyODQ1XX0=
+eyJoaXN0b3J5IjpbLTE0MDczNjA3ODcsLTE5MjY1NDk4ODQsLT
+E2MzE3ODIzMTAsLTEzNjc2NTg2MzEsLTE3OTY5ODc1MzgsLTEy
+NDIzMjkwNTYsLTE4MDI5MjI4NDVdfQ==
 -->
