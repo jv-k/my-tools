@@ -107,6 +107,10 @@ $ hub clone github/hub
       <td><a href="https://fig.io/">Fig</a></td>
       <td>Fig adds IDE-style autocomplete to the terminal</td>
     </tr>  
+    <tr>
+      <td><a href=""></a></td>
+      <td></td>
+    </tr>  
   </tbody>
 </table>
 
@@ -119,7 +123,7 @@ $ hub clone github/hub
 Tutorial Websites
 https://egghead.io/q/python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTc3ODcwNywtMTYzMTc4MjMxMCwtMT
-M2NzY1ODYzMSwtMTc5Njk4NzUzOCwtMTI0MjMyOTA1NiwtMTgw
-MjkyMjg0NV19
+eyJoaXN0b3J5IjpbLTEwNjY3NTAwNTMsLTE2MzE3ODIzMTAsLT
+EzNjc2NTg2MzEsLTE3OTY5ODc1MzgsLTEyNDIzMjkwNTYsLTE4
+MDI5MjI4NDVdfQ==
 -->
