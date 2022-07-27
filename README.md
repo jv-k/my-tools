@@ -113,7 +113,7 @@ $ hub clone github/hub
 
 Works on macOS (10.12+), Linux, and Windows (8+).
 
-In contrast to [`rm`] which is [dangerous](http://docstore.mik.ua/orelly/unix3/upt/ch14_03.htm) and permanently delete files, this only moves them to the trash, which is much safer and reversible.</td>
+In contrast to [`rm`] which is [dangerous] and permanently delete files, this only moves them to the trash, which is much safer and reversible.</td>
     </tr>  
   </tbody>
 </table>
@@ -127,7 +127,7 @@ In contrast to [`rm`] which is [dangerous](http://docstore.mik.ua/orelly/unix3/u
 Tutorial Websites
 https://egghead.io/q/python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzk3MDgwMywtMTYzMTc4MjMxMCwtMT
-M2NzY1ODYzMSwtMTc5Njk4NzUzOCwtMTI0MjMyOTA1NiwtMTgw
-MjkyMjg0NV19
+eyJoaXN0b3J5IjpbODQwNjgyNzYsLTE2MzE3ODIzMTAsLTEzNj
+c2NTg2MzEsLTE3OTY5ODc1MzgsLTEyNDIzMjkwNTYsLTE4MDI5
+MjI4NDVdfQ==
 -->
