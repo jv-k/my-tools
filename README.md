@@ -109,7 +109,7 @@ $ hub clone github/hub
     </tr>  
     <tr>
       <td><a href="https://github.com/sindresorhus/trash-cli">trash-cli</a></td>
-      <td>Move files and folders delete in the terminal to the trash. <br>In contrast to [`rm`] which is [dangerous] and permanently delete files, this only moves them to the trash, which is much safer and reversible.</td>
+      <td>Move files and folders delete in the terminal to the trash. <br>In contrast to `rm` which is dangerous and permanently deletes files, this only moves them to the trash, which is much safer and reversible.</td>
     </tr>  
   </tbody>
 </table>
@@ -123,7 +123,7 @@ $ hub clone github/hub
 Tutorial Websites
 https://egghead.io/q/python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzQ5MDgzOSwtMTYzMTc4MjMxMCwtMT
-M2NzY1ODYzMSwtMTc5Njk4NzUzOCwtMTI0MjMyOTA1NiwtMTgw
-MjkyMjg0NV19
+eyJoaXN0b3J5IjpbLTE5MjY1NDk4ODQsLTE2MzE3ODIzMTAsLT
+EzNjc2NTg2MzEsLTE3OTY5ODc1MzgsLTEyNDIzMjkwNTYsLTE4
+MDI5MjI4NDVdfQ==
 -->
