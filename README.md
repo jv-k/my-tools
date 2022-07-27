@@ -110,10 +110,16 @@ $ hub clone github/hub
   </tbody>
 </table>
 
+<!--
+    <tr>
+      <td><a href=""></a></td>
+      <td></td>
+    </tr>  
+-->
 Tutorial Websites
 https://egghead.io/q/python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzE3ODIzMTAsLTEzNjc2NTg2MzEsLT
-E3OTY5ODc1MzgsLTEyNDIzMjkwNTYsLTE4MDI5MjI4NDVdfQ==
-
+eyJoaXN0b3J5IjpbLTMzOTc3ODcwNywtMTYzMTc4MjMxMCwtMT
+M2NzY1ODYzMSwtMTc5Njk4NzUzOCwtMTI0MjMyOTA1NiwtMTgw
+MjkyMjg0NV19
 -->
