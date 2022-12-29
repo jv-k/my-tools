@@ -118,15 +118,13 @@ $ hub clone github/hub
     <tr>
       <td><a href="https://sindresorhus.com/velja">Velja</a></td>
       <td>Open links in a specific browser or a matching native app. Easily switch between browsers.</td>
-    </tr>          
-  </tbody>
-</table>
-
+    </tr>  
     <tr>
       <td><a href="https://github.com/warpdotdev/Warp"></a>Warped</td>
       <td></td>
-    </tr>  
-
+    </tr>              
+  </tbody>
+</table>
 <!--
     <tr>
       <td><a href=""></a></td>
@@ -136,7 +134,7 @@ $ hub clone github/hub
 Tutorial Websites
 https://egghead.io/q/python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjgzMzkzNjEsLTE0MDczNjA3ODcsLT
-E5MjY1NDk4ODQsLTE2MzE3ODIzMTAsLTEzNjc2NTg2MzEsLTE3
-OTY5ODc1MzgsLTEyNDIzMjkwNTYsLTE4MDI5MjI4NDVdfQ==
+eyJoaXN0b3J5IjpbODAxODAwNjM1LC0xNDA3MzYwNzg3LC0xOT
+I2NTQ5ODg0LC0xNjMxNzgyMzEwLC0xMzY3NjU4NjMxLC0xNzk2
+OTg3NTM4LC0xMjQyMzI5MDU2LC0xODAyOTIyODQ1XX0=
 -->
