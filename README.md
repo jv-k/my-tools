@@ -120,8 +120,10 @@ $ hub clone github/hub
       <td>Open links in a specific browser or a matching native app. Easily switch between browsers.</td>
     </tr>  
     <tr>
-      <td><a href="https://github.com/warpdotdev/Warp"></a>Warped</td>
-      <td></td>
+      <td><a href="https://github.com/warpdotdev/Warp">Warped</a></td>
+      <td>
+
+<img src="https://assets-global.website-files.com/6221c6f68d6664279c408870/624c65719f2e64b3eb46dc2b_624c63daaec4756e50fd49ec_larger%2520site%2520screen%2520capture.gif" /></td>
     </tr>              
   </tbody>
 </table>
@@ -134,7 +136,7 @@ $ hub clone github/hub
 Tutorial Websites
 https://egghead.io/q/python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxODAwNjM1LC0xNDA3MzYwNzg3LC0xOT
+eyJoaXN0b3J5IjpbNDE3MzM3NTAyLC0xNDA3MzYwNzg3LC0xOT
 I2NTQ5ODg0LC0xNjMxNzgyMzEwLC0xMzY3NjU4NjMxLC0xNzk2
 OTg3NTM4LC0xMjQyMzI5MDU2LC0xODAyOTIyODQ1XX0=
 -->
